@@ -10,7 +10,7 @@
 
 ---
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NerfeG&show_icons=true&hide_border=true)](https://github.com/NerfeGuns)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NerfeGunsG&show_icons=true&hide_border=true)](https://github.com/NerfeGuns)
 
 ---
 ### You can check out my Repo's📢
