@@ -15,5 +15,5 @@
 ---
 ### You can check out my Repo's📢
 
-[![Sourav Dey's Blog Cards](https://github-cards-external-blogs.NerfeGuns.vercel.app/getMediumBlogs?username=NerfeGuns&type=horizontal)](https://medium.com/@NerfeGuns)
+[![Nerfe Gun's Blog Cards](https://github-cards-external-blogs.NerfeGuns.vercel.app/getMediumBlogs?username=NerfeGuns&type=horizontal)](https://medium.com/@NerfeGuns)
 
