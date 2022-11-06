@@ -15,7 +15,10 @@
 <div align="center">
 ![GitHub Streak](https://streak-stats.demolab.com?user=NerfeGuns&theme=highcontrast&hide_border=true&border_radius=80&background=0D233F&border=FFFFFF&stroke=03FF00&ring=00FF12&fire=FF0000&currStreakNum=00DD28&sideNums=41F9FF&currStreakLabel=F8FF24&sideLabels=FFFFFF)
 </div>
+
 ---
+
 ![Profile views](https://gpvc.arturio.dev/NerfeGuns)  
+
 ---
 
