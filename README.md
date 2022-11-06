@@ -18,3 +18,4 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NerfeGuns&show_icons=true&hide_border=true)](https://github.com/NerfeGuns)
 
 ---
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=NerfeGuns)](https://github.com/NerfeGuns)
