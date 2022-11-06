@@ -18,4 +18,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=NerfeGuns&show_icons=true&hide_border=true)](https://github.com/NerfeGuns)
 
 ---
-[![GitHub stats](https://githubprofile.herokuapp.com/?user=NerfeGuns)](https://github.com/NerfeGuns)
+[![GitHub stats](https://githubreadme.herokuapp.com/?user=NerfeGuns)](https://github.com/NerfeGuns)
+
+[![GitHub Streak](https://githubreadme.herokuapp.com/?user=NerfeGuns1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
