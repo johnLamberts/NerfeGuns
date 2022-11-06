@@ -22,4 +22,4 @@
 
 [![GitHub Streak](https://githubreadme.herokuapp.com/?user=NerfeGuns1&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/githubreadme.herokuapp.com)
 
-[![GitHub Streak](https://githubreadme.herokuapp.com?user=NerfeGuns)](https://git.io/streak-stats)
+[![GitHub hello test](https://githubreadme.herokuapp.com?user=NerfeGuns)](https://git.io/streak-stats)
