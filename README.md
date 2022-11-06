@@ -11,8 +11,7 @@
 
 ---
 
-[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=NerfeGuns)](https://github.com/NerfeGuns)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=NerfeGuns)](https://github.com/NerfeGuns/github-readme-stats)
+[![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=NerfeGuns)](https://github.com/NerfeGuns&include_all_commits=true)
 
 ---
 
