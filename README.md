@@ -11,17 +11,6 @@
 
 ---
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/NerfeGuns)  
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NerfeGuns)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NerfeGuns)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NerfeGuns&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=NerfeGuns)  
-
 ![GitHub metrics](https://metrics.lecoq.io/NerfeGuns)  
 
 
